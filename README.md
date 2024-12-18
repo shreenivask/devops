@@ -1,2 +1,1 @@
-# devops
-devops
+# Python app based Flask framework with database.
